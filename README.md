@@ -1,2 +1,3 @@
 # Github-Snake
-snake game
+
+A snake game. coded in python. 
